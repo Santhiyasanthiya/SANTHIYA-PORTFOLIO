@@ -19,7 +19,7 @@ export const navbar_name = "Santhiya"
 
 // Main Page
 export const main = {
-    name: "Abhishek Jha",
+    name: "SANTHIYA .K",
     doamin: "A self-taught developer with an interest in Computer Science.",
     resume: "https://drive.google.com/file/d/1bEMbW0WeorNpArpRdfEmbbh-K9yPAG9D/view?usp=sharing"
 }
@@ -122,11 +122,10 @@ export const details = [{
     title: "Book MyShow Clone",
     desc: "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
     img: book,
-    frontend: "https://github.com/Santhiyasanthiya/guvi-hackathon2-frontend",
+    frontend: "https://github.com/Santhiyasanthiya/bookmyshow-frontend",
     backend:"https://github.com/Santhiyasanthiya/guvi-hackathon2-backend",
     feature:"ReactJs, Bootstrap, MongoDB, NodeJS, Express ",
-    link: "https://youtu.be/1x73l7V_Egk",
-    deploy:"https://guvi-hackathon-frontend.vercel.app/"
+    deploy:"https://bookmyshow-frontend-uluk.vercel.app/"
     
 },
 {
